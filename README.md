@@ -20,7 +20,7 @@ Working on a project for Accentures client Social Buzz, tasked to understand the
 
 ### Score:
 
-* Across the categories, the top 5 highest scored categories were animals (75394) followed behind with science (71240), healthy eating (69271), technology (68820), and food (66952).
+* Across the categories, the top 5 highest scored were animals (75394) followed behind with science (71240), healthy eating (69271), technology (68820), and food (66952).
 
 * It was worth noting how these different categories relate to each other and ultimately makes the viewer go beyond the normal attention span. Observing animals often leads to science explaining their behaviors and actions. Healthy eating brings in a different variety of food choices and technology leads to making these topics more accessible.
 
