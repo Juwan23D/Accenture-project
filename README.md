@@ -1,4 +1,6 @@
 # Overview
+Participated in Accentures Data Analytic and Vizualization Program organized by Accentures recruitment team to identify potential canidates.
+
 Working on a project for Accentures client Social Buzz, tasked to understand their top 5 categories.
 
 ![](https://github.com/Juwan23D/Accenture-project/blob/main/Accenture%20dash.png)
