@@ -1,5 +1,3 @@
-# Accenture-project
-
 # North Star Metrics and Dimensions
 
 
