@@ -33,3 +33,5 @@ Look to combine your top perfroming categories such as with animals and science,
 
 Understand your global market and what current trends are popular in each country. Brazil may command a surge of positive reactions to the food category for pancakes around Shrove Day in February. 
 
+You could also look to form partnerships with other notable brands who have a heavy presence in your content categories such as National Geographic for animals and science, Amazon for technology,and Daves Killer Bread for healthy eating with food. 
+
