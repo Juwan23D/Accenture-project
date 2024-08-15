@@ -25,11 +25,11 @@ This indicates the audience has a great attitude towards what's being shown on S
 
 **Reactions**
 
-
-
-
-
-
-
+Heart had the highest reactionary type (1622) indicating that the audience had a strong positive reaction to what they were viewing. 
 
 # Recommendations & Next Steps
+
+Look to combine your top perfroming categories such as with animals and science, you can drive more content to wildlife behavior, scientific discoveries about animals, and videos highlighting the beauty of wildlife to drive engagement and grow their platform.
+
+Understand your global market and what current trends are popular in each country. Brazil may command a surge of positive reactions to the food category for pancakes around Shrove Day in February. 
+
