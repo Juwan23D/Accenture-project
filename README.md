@@ -11,25 +11,25 @@
 
 # Summary of Insights
 
-**Score:**
+### Score:
 
 * Across the categories, the top 5 highest scored categories were animals (75394) followed behind with science (71240), healthy eating (69271), technology (68820), and food (66952).
 
 * It was worth noting how these different categories relate to each other and ultimately makes the viewer go beyond the normal attention span. Observing animals often leads to science explaining their behaviors and actions. Healthy eating brings in a different variety of food choices and technology leads to making these topics more accessible.
 
-**Sentiment:**
+### Sentiment:
 
 * The overall sentiment given to the content came from the positive group with a count of 1307. 
 
 * This indicates the audience has a great attitude towards what's being shown on Social Buzz’s platform.
 
-**Reactions:**
+### Reactions:
 
 * Heart had the highest reactionary type (1622) indicating that the audience had a strong positive reaction to what they were viewing. 
 
 # Recommendations & Next Steps
 
-* Look to combine your top perfroming categories such as with animals and science, you can drive more content to wildlife behavior, scientific discoveries about animals, and videos highlighting the beauty of wildlife to drive engagement and grow their platform.
+* Look to combine your top perfroming categories such as with animals and science, you can drive more content to wildlife behavior, scientific discoveries about animals, and videos highlighting the beauty of wildlife to drive engagement and grow the platform.
 
 * Understand your global market and what current trends are popular in each country. Brazil may command a surge of positive reactions to the food category for pancakes around Shrove Day in February. 
 
