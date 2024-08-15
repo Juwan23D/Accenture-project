@@ -1,3 +1,6 @@
+
+![](https://github.com/Juwan23D/Accenture-project/blob/main/Accenture%20dash.png)
+
 # North Star Metrics and Dimensions
 **Category:** 16 unique categories that groups the content on the clients social media platform.
 
